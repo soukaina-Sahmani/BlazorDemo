@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\bin\Debug\netcoreapp3.1\Demo.BusniessLogic.deps.json
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\bin\Debug\netcoreapp3.1\Demo.BusniessLogic.dll
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\bin\Debug\netcoreapp3.1\Demo.BusniessLogic.pdb
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.AssemblyInfo.cs
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.dll
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.pdb
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\bin\Debug\netcoreapp3.1\Demo.DataModels.dll
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\bin\Debug\netcoreapp3.1\Demo.DataModels.pdb
+C:\Users\HP\source\repos\BlazorDemo\Demo.BusniessLogic\obj\Debug\netcoreapp3.1\Demo.BusniessLogic.csproj.CopyComplete

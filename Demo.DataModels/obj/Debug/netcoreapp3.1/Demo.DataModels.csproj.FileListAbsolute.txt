@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\bin\Debug\netcoreapp3.1\Demo.DataModels.deps.json
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\bin\Debug\netcoreapp3.1\Demo.DataModels.runtimeconfig.json
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\bin\Debug\netcoreapp3.1\Demo.DataModels.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\bin\Debug\netcoreapp3.1\Demo.DataModels.dll
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\bin\Debug\netcoreapp3.1\Demo.DataModels.pdb
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.AssemblyInfo.cs
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.dll
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.pdb
+C:\Users\HP\source\repos\BlazorDemo\Demo.DataModels\obj\Debug\netcoreapp3.1\Demo.DataModels.genruntimeconfig.cache
